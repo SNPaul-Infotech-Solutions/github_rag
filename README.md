@@ -4,7 +4,7 @@ A step-by-step build of a retrieval-augmented generation (RAG) system that
 answers developer questions about a GitHub repository, with answers that
 point back to the source files they came from.
 
-This is the companion code for a 14-chapter series by SNPaul Infotech.
+This is the companion code for a Multi-chapter series by SNPaul Infotech.
 Each chapter adds one part of the system, from architecture to deployment.
 
 Series: [Link](https://www.snpaulinfotech.com/post/building-a-production-ready-github-rag-system)
