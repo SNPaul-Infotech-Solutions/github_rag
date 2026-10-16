@@ -1,0 +1,80 @@
+excluded_directories:
+  - .git
+  - .github
+  - .idea
+  - .vscode
+  - .venv
+  - venv
+  - env
+  - test_env
+  - site-packages
+  - node_modules
+  - __pycache__
+  - .pytest_cache
+  - .mypy_cache
+  - .ruff_cache
+  - dist
+  - build
+  - target
+  - coverage
+  - htmlcov
+  - vendor
+  - generated
+
+excluded_file_names:
+  - .env
+  - .env.local
+  - .env.development
+  - .env.production
+  - credentials.json
+  - service-account.json
+  - service_account.json
+  - id_rsa
+  - id_ed25519
+
+excluded_extensions:
+  - .pyc
+  - .pyo
+  - .class
+  - .jar
+  - .war
+  - .zip
+  - .tar
+  - .gz
+  - .7z
+  - .exe
+  - .dll
+  - .so
+  - .dylib
+  - .png
+  - .jpg
+  - .jpeg
+  - .gif
+
+supported_extensions:
+  - .py
+  - .sql
+  - .md
+  - .rst
+  - .txt
+  - .yaml
+  - .yml
+  - .json
+  - .toml
+  - .ini
+  - .cfg
+  - .properties
+  - .java
+  - .scala
+  - .js
+  - .jsx
+  - .ts
+  - .tsx
+  - .go
+  - .sh
+  - .tf
+  - .ipynb
+  - .xml
+  - .gradle
+  - .lock
+  - .mod
